@@ -14,6 +14,7 @@ da biblioteca nodemailer.
  ◼ Postgresql </p>
  ◼ Nodemailer </p>
  ◼ JWT </p>
+ ◼ Nodemon </p>
  ◼ Dotenv </p>
  ◼ Cors </p>
  ◼ Body-Parser </p>
@@ -28,9 +29,9 @@ da biblioteca nodemailer.
 
     npm install 
 
-3 - Criar arquivo .env na raiz com todos arquivos necessários 
+3 - Criar arquivo .env na raiz com todos arquivos necessários de configuração
 
-4 - Rodar aplicação
+4 - Rodar aplicação em nodemon/localhost
     
     npm run dev
 
