@@ -144,7 +144,16 @@ EMAIL_AUTH_PASS = Senha E-mail
 3 - Rodar aplicação em nodemon/localhost
     
     npm run dev
-    
+ 
+# Sistema de ativar usuário 
+
+Ao criar um novo usuário é necessário acessar a rota post /activate para ativar usuário.
+
+```
+email: *emaildeusuario@email.com*
+token: *token de ativação enviado por email*
+```
+
 ## Contribua com o projeto
 
 1 - Crie um fork do projeto.
