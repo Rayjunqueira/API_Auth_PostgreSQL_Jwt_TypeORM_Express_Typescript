@@ -39,9 +39,13 @@ da biblioteca nodemailer.
 
 1 - Crie uma nova entidade
 
-2 - npm run migration:generate
+2 - Gerar migration
 
-3 - npm run migration:run
+    npm run migration:generate
+
+3 - Rodar migration
+
+   npm run migration:run
 
 ## Contribua com o projeto
 
