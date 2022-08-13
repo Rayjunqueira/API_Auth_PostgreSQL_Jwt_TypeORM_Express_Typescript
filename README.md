@@ -45,7 +45,7 @@ da biblioteca nodemailer.
 
 3 - Rodar migration
 
-   npm migration:run
+     npm run migration:run
 
 ## Contribua com o projeto
 
