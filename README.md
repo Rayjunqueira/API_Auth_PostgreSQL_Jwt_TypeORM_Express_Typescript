@@ -1,6 +1,6 @@
 # Projeto Autenticação Frontend completo React & Typescript
 
-![Jane's 18th Birthday](https://user-images.githubusercontent.com/99502194/184500535-5549ae9e-d45f-4a60-a4e2-4cbf07334bbd.png)
+![Auth](https://user-images.githubusercontent.com/99502194/184500622-29c2e3e0-44c3-4f3f-8632-ad1fd98b2caa.png)
 
 # Sobre o Projeto
 
