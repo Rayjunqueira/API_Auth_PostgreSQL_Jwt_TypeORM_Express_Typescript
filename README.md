@@ -145,7 +145,7 @@ EMAIL_AUTH_PASS = Senha E-mail
     
     npm run dev
  
-# Sistema de ativar usuário 
+# Ativar usuário 
 
 Ao criar um novo usuário é necessário acessar a rota post /activate para ativar usuário.
 
