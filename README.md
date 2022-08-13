@@ -105,8 +105,8 @@ export default sendEmail;
 ```
 
 ```
-EMAIL_PORT = Porta onde roda e-mail
-EMAIL_HOST = Host hospedagem E-mail
+EMAIL_PORT = Porta de e-mail
+EMAIL_HOST = Hospedagem E-mail
 EMAIL_AUTH_USER = Usuário E-mail
 EMAIL_AUTH_PASS = Senha E-mail
 ```
