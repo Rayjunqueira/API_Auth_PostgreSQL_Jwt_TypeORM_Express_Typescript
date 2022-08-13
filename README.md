@@ -30,10 +30,8 @@ da biblioteca nodemailer.
 2 - Instalar os pacotes NPM
 
     npm install 
-
-3 - Criar arquivo .env na raiz com todos arquivos necessários de configuração
-
-4 - Rodar aplicação em nodemon/localhost
+    
+3 - Rodar aplicação em nodemon/localhost
     
     npm run dev
 
