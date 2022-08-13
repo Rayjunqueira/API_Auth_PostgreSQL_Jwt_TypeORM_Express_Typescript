@@ -37,6 +37,43 @@ da biblioteca nodemailer.
     
     npm run dev
 
+# Configurar Banco de Dados TypeORM
+
+```
+import { DataSource } from "typeorm"
+import dotenv from 'dotenv';
+
+dotenv.config();
+
+const port = process.env.DATABASE_PORT as number | undefined
+
+export const AppDataSource = new DataSource({
+    type: "postgres",
+    host: process.env.DATABASE_HOST,
+    port: port,
+    username: process.env.DATABASE_USERNAME,
+    password: process.env.DATABASE_PASSWORD,
+    database: process.env.DATABASE_NAME,
+    synchronize: true,
+
+})
+```
+
+```
+DATABASE_HOST = Host 
+DATABASE_USERNAME = Usuário de seu banco de dados
+DATABASE_PASSWORD = Senha de seu banco de dados
+DATABASE_NAME = Nome do seu banco de dados
+```
+
+Pasta de diretório de migrations e entidades.
+
+```
+entities: [`${__dirname}/../entities/*.{ts,js}`],
+migrations: [`${__dirname}/migrations/*.{ts,js}`],
+```
+
+
 # Criando migrations
 
 1 - Crie uma nova entidade
