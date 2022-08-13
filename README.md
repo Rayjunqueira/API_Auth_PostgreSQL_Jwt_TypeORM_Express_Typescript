@@ -20,20 +20,6 @@ da biblioteca nodemailer.
  ◼ Dotenv </p>
  ◼ Cors </p>
  ◼ Body-Parser </p>
- 
-# Rodando aplicação na sua máquina
-
-1 - Clone o repositório
-
-    git clone https://github.com/Routfin/API_Auth_PostgreSQL_Jwt_TypeORM_Express_Typescript.git
-
-2 - Instalar os pacotes NPM
-
-    npm install 
-    
-3 - Rodar aplicação em nodemon/localhost
-    
-    npm run dev
 
 # Configurar Banco de Dados TypeORM
 
@@ -145,7 +131,20 @@ EMAIL_HOST = Hospedagem E-mail
 EMAIL_AUTH_USER = Usuário E-mail
 EMAIL_AUTH_PASS = Senha E-mail
 ```
+# Rodando aplicação na sua máquina
 
+1 - Clone o repositório
+
+    git clone https://github.com/Routfin/API_Auth_PostgreSQL_Jwt_TypeORM_Express_Typescript.git
+
+2 - Instalar os pacotes NPM
+
+    npm install 
+    
+3 - Rodar aplicação em nodemon/localhost
+    
+    npm run dev
+    
 ## Contribua com o projeto
 
 1 - Crie um fork do projeto.
