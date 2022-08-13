@@ -1,5 +1,7 @@
 # Projeto Autenticação Frontend completo React & Typescript
 
+![Jane's 18th Birthday](https://user-images.githubusercontent.com/99502194/184500535-5549ae9e-d45f-4a60-a4e2-4cbf07334bbd.png)
+
 # Sobre o Projeto
 
 Projeto de autenticação backend completo desenvolvido em Node/Express e Typescript. 
