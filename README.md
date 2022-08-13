@@ -39,6 +39,16 @@ da biblioteca nodemailer.
 
 1 - Crie uma nova entidade
 
+@Entity('example')
+export class Example {
+    @PrimaryGeneratedColumn('uuid')
+    id: string;
+
+    @Column()
+    test: string;
+    }
+}
+
 2 - Gerar migration
 
     npm run migration:generate
