@@ -1,4 +1,4 @@
-# Projeto Autenticação Backend completo React & Typescript
+# Projeto Autenticação Backend completo Express & Typescript
 
 ![Auth](https://user-images.githubusercontent.com/99502194/184500622-29c2e3e0-44c3-4f3f-8632-ad1fd98b2caa.png)
 
