@@ -154,11 +154,6 @@ email: *emaildeusuario@email.com*
 token: *token de ativação enviado por email*
 ```
 
-## Rodando com uma API de autenticação Real
-
-Basta remover os Mocks e certificar de colocar o link de uma API real em baseURL e certificar de corrigir as rotas se necessário.
-
-![mocks](https://user-images.githubusercontent.com/99502194/188183799-4ccc1f34-2e29-4c2c-834c-0ce0b503e80f.gif)
 
 
 ## Contribua com o projeto
